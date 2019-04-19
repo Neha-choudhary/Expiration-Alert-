@@ -1,0 +1,2 @@
+
+0 0 * * *  curl.exe http://192.168.1.102:8182/lammonitor/includes/example/sendemail.php
